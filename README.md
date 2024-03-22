@@ -10,6 +10,6 @@ A cross platform mobile application using React Native that can detect bad form 
 4. Run `npm run android` to run the application on an android emulator
 5. Run `npm run ios` to run the application on an ios emulator
 
-## Images
+## Example UI
 
-![Example UI]("./images/fitnesso.png")
+![Example UI](./images/fitnesso.png)
